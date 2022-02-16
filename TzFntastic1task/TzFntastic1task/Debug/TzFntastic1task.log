@@ -1,0 +1,5 @@
+﻿  TzFntastic1task.cpp
+C:\Users\glinb\source\repos\TzFntastic1task\TzFntastic1task\TzFntastic1task.cpp(11,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\glinb\source\repos\TzFntastic1task\TzFntastic1task\TzFntastic1task.cpp(35,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\glinb\source\repos\TzFntastic1task\TzFntastic1task\TzFntastic1task.cpp(37,27): warning C4018: <=: несоответствие типов со знаком и без знака
+  TzFntastic1task.vcxproj -> C:\Users\glinb\source\repos\TzFntastic1task\Debug\TzFntastic1task.exe
